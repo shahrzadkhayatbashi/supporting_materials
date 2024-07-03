@@ -2,11 +2,11 @@
 This folder contains instructions for repeating the evaluation section, which is used in the "Graph-based process mining" paper.
 The paper is accepted in the 5th International Workshop on Process Querying, Manipulation, and Intelligence ([PQMI 2020](http://processquerying.com/pqmi2020/)), which is co-located with the 2nd International Conference in Process Mining ([ICPM 2020](https://icpmconference.org/2020/)). 
 
-The link for the author-copy and published version will be available soon.
+Here, you can find the [author-copy version](https://www.researchgate.net/publication/350507512_Graph-Based_Process_Mining).
 
 You can cite this paper by:
 ```
-coming soon
+Jalali, A. (2021). Graph-based process mining. In Process Mining Workshops: ICPM 2020 International Workshops, Padua, Italy, October 5–8, 2020, Revised Selected Papers 2 (pp. 273-285). Springer International Publishing.
 ```
 
 # Evaluation Process
